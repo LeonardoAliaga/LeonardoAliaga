@@ -19,3 +19,4 @@ Hola!, mi nombre es Leonardo Aliaga, mi sobre nombre el "JlYupanqui" (Jl por mis
 * [PanquiBot - Discord Bot Invite](https://discord.com/oauth2/authorize?client_id=864517763196649482&scope=bot&permissions=534195231)
 * [PanquiBot Dash - Dashboard](https://bit.ly/3BZB02c)
 * [Donaciones - Paypal](https://paypal.me/leoaliaga19)
+* Doneciones - Skrill (aliagaleonardo23@gmail.com)
