@@ -13,10 +13,15 @@ Hola!, mi nombre es Leonardo Aliaga, mi sobre nombre el "JlYupanqui" (Jl por mis
     <img src="https://PanquiBotDash.jlyupanqui.repl.co/img/banner-user.gif" alt="banner align="center">
 </p>
 
+## Redes Sociales                                                                              
+* [Instagram](https://www.instagram.com/jlyupanquioficial/)
+* [Git Hub](https://github.com/LeonardoAliaga)
+* [Twitter]()
+                                                                                                      
 ## Quick Links
 * [MusicWorld - Discord Server](https://bit.ly/3jWFYqd)
 * [PanquiBot Support - Discord Server](https://discord.gg/UC3ezC4zmh)
 * [PanquiBot - Discord Bot Invite](https://discord.com/oauth2/authorize?client_id=864517763196649482&scope=bot&permissions=534195231)
 * [PanquiBot Dash - Dashboard](https://bit.ly/3BZB02c)
 * [Donaciones - Paypal](https://paypal.me/leoaliaga19)
-* Doneciones - Skrill (aliagaleonardo23@gmail.com)
+* Donaciones - Skrill / aliagaleonardo23@gmail.com
